@@ -11,4 +11,4 @@ Usei o comando input para fazer a interação com outros usuarios,
 porem o sistema não faz calculos com textos  precisei convertelo a classe numerica
 usando o comando: <mark> int( )</mark>  assim podendo usalos em calculos .
 <br>
-usei as estruturas condicionais if, elif e o else para realisar diferentes ações dependendo da escolha.
+usei as estruturas condicionais if, elif e o else para realisar diferentes ações dependendo da escolha. 
